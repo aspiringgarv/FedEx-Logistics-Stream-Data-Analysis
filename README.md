@@ -23,7 +23,7 @@ MongoDB Sink Connector
    ↓
 MongoDB Atlas
    ↓
-Data Visualization Dashboard (e.g. Streamlit / Plotly / Dash)
+Data Visualization Dashboard (MONGO DB DASHBOARD)
 ```
 
 ---
@@ -110,7 +110,7 @@ Set up a **MongoDB Kafka Connector** via Confluent Cloud or Kafka Connect:
 
 ## 📊 Dashboard
 
-A dashboard can be created using **Streamlit**, **Plotly Dash**, or **any Python-based tool** to visualize data from MongoDB also can also be created on Mongo_db.
+A dashboard can be created to visualize data from MongoDB on Mongo_db charts.
 
 You can display:
 - Shipments by status
